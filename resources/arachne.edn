@@ -1,0 +1,4 @@
+[{:arachne/name :org.arachne-framework/module-template
+  :arachne/schema arachne.module-template/schema
+  :arachne/configure arachne.module-template/configure
+  :arachne/dependencies [:org.arachne-framework/arachne-core]}]
